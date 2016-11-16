@@ -5,3 +5,7 @@ p {
 h1, h3 {
     font-family: sans-serif
 }
+
+body {
+    background: #00ff00
+}
