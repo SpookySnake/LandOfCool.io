@@ -9,3 +9,7 @@ h1, h3 {
 body {
     background-color: yellow;
 }
+
+span.crosshair {
+    cursor: crosshair;
+}
